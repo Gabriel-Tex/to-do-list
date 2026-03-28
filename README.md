@@ -26,7 +26,7 @@ API para gerenciar tarefas (CRUD).
 
 - Executar a aplicação:
 
-`java -jar target/todolist-0.0.1-SNAPSHOT.jar`
+`java -jar target/to-do-list-0.0.1-SNAPSHOT.jar`
 
 A API poderá ser acessada em `localhost:8080`.  
 O Swagger poderá ser visualizado em `localhost:8080/swagger-ui/index.html`
